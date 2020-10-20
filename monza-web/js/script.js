@@ -491,3 +491,8 @@ $(document).on('ready',function($) {
 	})();
 
 });
+
+// optional
+$('#blogCarousel').carousel({
+	interval: 5000
+});
